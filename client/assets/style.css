@@ -1,0 +1,8 @@
+.buttons {
+    background-color: black;
+}
+.buttons button{
+    border:none;
+    background-color: transparent;
+    color: white;
+}
