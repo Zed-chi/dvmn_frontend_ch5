@@ -11,9 +11,13 @@
 }
 .buttons {
     background-color: black;
+
 }
 .buttons button{
     border:none;
     background-color: transparent;
     color: white;
+    font-size: 20px;
+    line-height: 2;
+    margin:2px 10px;
 }
