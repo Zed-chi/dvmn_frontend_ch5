@@ -1,3 +1,6 @@
+#player{
+    box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.84);
+}
 .buttons {
     background-color: black;
 }
