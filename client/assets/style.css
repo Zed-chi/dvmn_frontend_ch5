@@ -13,7 +13,7 @@
     background-color: black;
     display: flex;
 }
-.buttons button {
+.player-control-button {
     border: none;
     background-color: transparent;
     color: white;
