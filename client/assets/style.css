@@ -20,6 +20,8 @@
     font-size: 20px;
     line-height: 2;
     margin: 2px 10px;
+    width:2em;
+    height:2em;
 }
 .buttons .space-filler {
     flex-grow: 1;
