@@ -1,4 +1,4 @@
-#player {
+.player-widget {
     box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.84);
     width: 800px;
     height: 600px;
