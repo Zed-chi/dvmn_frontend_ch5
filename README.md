@@ -17,14 +17,12 @@
 - python3.7 и библиотека livereload для автообноовления страницы при изменениях
 
 ### Установка livereload:
-    ```bash
-        python -m pip install -r requirements.txt
-    ```
+`python -m pip install -r requirements.txt`
+
 
 ### Запуск сервера Livereload:
-```bash
-    livereload client
-```
+`livereload client`
+
 
 ## Цель проекта
 
