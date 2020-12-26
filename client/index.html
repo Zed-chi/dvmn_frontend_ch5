@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="assets/font-awesome.min.css" />
         <link rel="icon" type="image/png" href="./assets/favicon-32x32.png" sizes="32x32">
-        <link rel="stylesheet" href="assets/style.css" />
+        <link rel="stylesheet" href="./assets/style.css" />
         <title>Online Film</title>
     </head>
     <body>
@@ -24,7 +24,13 @@
                 <button class="js-mute-button player-control-button">
                     <i class="fa fa-volume-up" aria-hidden="true"></i>
                 </button>
-                <div class="space-filler"></div>
+                <div class="space-filler">                    
+                    <span class="js-current-time player-time" ></span>
+                    <div class="js-progress progress" style="background-color: grey;">
+                        <div class="js-progress-slider " style="background-color: red;">Прогресс</div>
+                    </div>
+                    <span class="js-duration player-time"></span>                                                            
+                </div>
                 <button class="js-fullscreen-button player-control-button">
                     <i class="fa fa-expand" aria-hidden="true"></i>
                 </button>
