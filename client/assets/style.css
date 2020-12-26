@@ -46,3 +46,11 @@ div .space-filler {
     height:5px;
     border-radius:5px;
 }
+
+.point{
+    width:8px;
+    height:8px;
+    border-radius: 100%;
+    background:red;
+    border:3px solid white;
+}
