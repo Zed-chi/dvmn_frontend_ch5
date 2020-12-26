@@ -40,4 +40,9 @@ div .space-filler {
 .progress{
     width:100%;
     padding:10px;
+    background-color: black !important;    
+}
+.progress-slider{
+    height:5px;
+    border-radius:5px;
 }
